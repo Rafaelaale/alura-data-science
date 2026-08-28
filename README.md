@@ -24,4 +24,16 @@ Estudo Ciência de Dados para complementar minha formação em **Desenvolvimento
 - projects/: Projetos práticos de análise de dados.
 
 ---
+
+## 📊 Trilha de Ciência de Dados — Alura
+
+### ✅ Conteúdo:
+- Lógica de programação
+- Python
+- Fundamentos de Machine Learning
+
+
+
+
+
 *Desenvolvido por Rafael Alexandre Oliveira Araujo*
