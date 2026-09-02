@@ -1,5 +1,7 @@
 ﻿# 📊 Alura Data Science Studies
-
+## 🏆 Certificação
+Este repositório faz parte da minha trilha de aprendizado certificada pela Alura.  
+📜 [Ver certificado de conclusão](https://cursos.alura.com.br/user/rafex113/fullCertificate/989b554abcb94476f69b7ff632113858)
 Repositório dedicado aos meus estudos de Ciência de Dados, Python e SQL, realizados através da formação da Alura. 
 
 ## 🎯 O que você vai encontrar aqui
@@ -33,7 +35,9 @@ Estudo Ciência de Dados para complementar minha formação em **Desenvolvimento
 - Fundamentos de Machine Learning
 
 
-
+## 🏆 Certificação
+Este repositório faz parte da minha trilha de aprendizado certificada pela Alura.  
+📜 [Ver certificado de conclusão](https://cursos.alura.com.br/user/rafex113/fullCertificate/989b554abcb94476f69b7ff632113858)
 
 
 *Desenvolvido por Rafael Alexandre Oliveira Araujo*
